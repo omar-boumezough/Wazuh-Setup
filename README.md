@@ -15,7 +15,7 @@ The goal of this lab is to deploy Wazuh, access the dashboard, connect it to the
 - Access the Wazuh Dashboard from the browser.
 - Identify the Wazuh server IP address.
 - Understand the basic Wazuh lab architecture.
-- Prepare the environment for future agent deployment and alert monitoring.
+- and more ...
 
 ---
 
