@@ -1,0 +1,2 @@
+# Wazuh-Setup
+Setup OPEN SOURCE SIEM SOLUTION + HOW TO USE
