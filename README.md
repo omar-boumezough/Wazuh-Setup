@@ -70,3 +70,9 @@ after download the OVA file from this link : https://documentation.wazuh.com/cur
     <br>
     <img width="931" height="566" alt="image" src="https://github.com/user-attachments/assets/4e749090-e128-452f-93ef-9484c03f1d3e" />
     <br>
+++++after the complition now need to link it with our real network so go to settings then network and change attached to bridged adapter like this :
+    <br>
+    <img width="600" height="447" alt="image" src="https://github.com/user-attachments/assets/b9478e86-1dde-4269-aa17-7a47e96884c2" />
+    <br>
+
+    
