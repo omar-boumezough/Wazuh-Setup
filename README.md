@@ -74,5 +74,25 @@ after download the OVA file from this link : https://documentation.wazuh.com/cur
     <br>
     <img width="600" height="447" alt="image" src="https://github.com/user-attachments/assets/b9478e86-1dde-4269-aa17-7a47e96884c2" />
     <br>
+++++Click ok then start the machine . you can find the user and password at the startup of the machine 
+    <br>
+    <img width="804" height="671" alt="image" src="https://github.com/user-attachments/assets/44c4f2dd-fa60-46ae-b7ad-48c490073a2e" />
+    <br>
+++++Now login then type ifconfig for know the IP address of the machine :
+    <br>
+    <img width="798" height="689" alt="image" src="https://github.com/user-attachments/assets/c3805f82-80b1-4bd9-b35f-94ead7e1be29" />
+    <br>
+++++after this go to google or any browser then type https://THE-IP-OF-WAZUH you can see web page like this :
+    <br>
+    <img width="1924" height="988" alt="image" src="https://github.com/user-attachments/assets/a6632f49-b04c-4ee5-8066-4095d02bbdb4" />
+    <br>
+++++ USER: admin and the password also admin after login u can see a page like this :
+    <br>
+    <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/3da5d73a-97cb-4bab-8de5-bd018ed7e03d" />
+    <br>
+
+
+
+
 
     
